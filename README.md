@@ -1,4 +1,3 @@
-# FlyRankAI_Capstone_1_WALI
 # Embeddable Widget & Lead-Capture Platform
 
 Hardened, multi-tenant lead collection backend API enabling single-script embeddable forms.
